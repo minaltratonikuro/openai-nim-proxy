@@ -22,7 +22,7 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 
 // Model mapping (adjust based on available NIM models)
 const MODEL_MAPPING = {
-  'gpt-3.5-turbo': 'z-ai/glm-5.2',
+  'gpt-3.5-turbo': 'deepseek-ai/deepseek-v4-pro-0813',
   'gpt-4': 'deepseek-ai/deepseek-v4-flash-0731',
   'gpt-4-turbo': 'mistralai/mistral-large-3-675b-instruct-2512',
   'gpt-4o': 'deepseek-ai/deepseek-v4-flash',
